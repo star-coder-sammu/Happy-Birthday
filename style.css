@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: groove;
+    border-color: darkviolet;   
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
